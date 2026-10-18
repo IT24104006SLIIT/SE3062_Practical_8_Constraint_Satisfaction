@@ -11,6 +11,7 @@ Task	Topic	What was implemented
 3	Constraint Propagation	AC-3 arc consistency (revise and ripple effect), used inside MAC (Maintaining Arc Consistency)
 4	Ablation Study	Benchmark of all three strategies on 8-Queens (assignments, backtracks, time)
 Repository contents
+
 .
 ├── SE3062_Practical_8_Constraint_Satisfaction.ipynb   # main notebook (code, outputs, analysis)
 └── README.md
